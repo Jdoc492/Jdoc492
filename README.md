@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img src="www.linkedin.com/in/jose-ochoa-cairoza-8b7003244" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jose-ochoa-cairoza-8b7003244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Jdoc492?tab=repositories"><img src="https://img.shields.io/badge/Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Jdoc492&style=for-the-badge&color=38bdf8&label=VISITAS" alt="Visitas" />
+  <a href="https://jdoc492.github.io/Portafolio/#yo"><img src="https://img.shields.io/badge/Portafolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 </p>
 
 ---
